@@ -1,0 +1,20 @@
+# Evitar archivos de IntelliJ
+.idea/
+*.iml
+
+# Evitar archivos de Maven
+target/
+*.jar
+*.war
+
+# Evitar archivos de configuración de sistema
+.DS_Store
+Thumbs.db
+
+# Evitar credenciales
+application.properties
+application.yml
+
+# Evitar archivos de logs
+logs/
+*.log
